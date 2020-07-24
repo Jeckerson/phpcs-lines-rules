@@ -1,0 +1,1 @@
+# phpcs-lines-rules
